@@ -19,3 +19,7 @@ Current Status:
 * It draws the board is all. Nothing Special
 
 * As features are added, I might or might not update the current status. When the product is finished, I will update this obviously.
+
+ROUGH DRAFT NOTES:
+
+* using python 3.7 now
