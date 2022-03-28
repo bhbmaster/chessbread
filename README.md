@@ -22,4 +22,4 @@ Current Status:
 
 ROUGH DRAFT NOTES:
 
-* using python 3.7 now
+* using python 3.10.4 now
